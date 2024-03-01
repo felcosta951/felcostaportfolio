@@ -387,17 +387,17 @@ button:hover {
 
 .left-image img,
 .right-image img {
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .right-image-post h4,
 .left-image-post h4 {
-    margin-top: 25px;
+    margin-top: 60px;
 }
 
 .right-image-post p,
 .left-image-post p {
-    margin-top: 20px;
+    margin-top: px;
 }
 
 .right-image-post .white-button,
